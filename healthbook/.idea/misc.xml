@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/drawable/btn_bg.xml" value="0.105" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/drawable/calendar.xml" value="0.105" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/drawable/chat.xml" value="0.105" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_book_appointment.xml" value="0.22" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_cart_lab.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_doctor_details.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_find_doctor.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_home.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_lab_test.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_lab_test_book.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_lab_test_details.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_order_details.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/activity_register.xml" value="0.1578125" />
+        <entry key="..\:/Users/gulsh/healthbook/app/src/main/res/layout/multi_line.xml" value="0.3046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
